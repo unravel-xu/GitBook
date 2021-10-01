@@ -1,4 +1,4 @@
-# EvaristeXu的第一本GitBook
+# 介绍
 
 这是我个人的第一本GitBook，用于介绍GitBook的配置使用，章节设置可能存在不合理。
 
@@ -12,7 +12,7 @@
 
 ## 开源工具链
 
-这个工具链 (GitBook) 是一个使用 Git 和 Markdown 来构建书籍的工具。它可以将你的书输出很多格式：PDF，ePub，mobi，或者输出为静态网页。
+这个工具链 \(GitBook\) 是一个使用 Git 和 Markdown 来构建书籍的工具。它可以将你的书输出很多格式：PDF，ePub，mobi，或者输出为静态网页。
 
 GitBook工具链是开源并且完全免费的，它的源码可以在 [GitHub](https://github.com/GitbookIO/gitbook) 上获取。
 
@@ -20,13 +20,11 @@ GitBook工具链是开源并且完全免费的，它的源码可以在 [GitHub](
 
 ## GitBook.com
 
-GitBook.com 是一个使用工具链来创建和托管书籍的在线平台([www.gitbook.com](https://www.gitbook.com/))。
+GitBook.com 是一个使用工具链来创建和托管书籍的在线平台\([www.gitbook.com](https://www.gitbook.com/)\)。
 
 ## 其他文档
 
-开发文档 (API & 插件) 地址 [developer.gitbook.com](http://developer.gitbook.com/)。
+开发文档 \(API & 插件\) 地址 [developer.gitbook.com](http://developer.gitbook.com/)。
 
 企业版本的安装向导和手册的地址 [hep.enterprise.gitbook.com](http://help.enterprise.gitbook.com/)。
-
-
 
