@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gitbook-plugin-page-treeview": "^3.0.6"
+  }
+}
